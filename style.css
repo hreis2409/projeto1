@@ -1,0 +1,29 @@
+body{
+    font-family: "Noto Sans JP", sans-serif;
+    background: purple;
+    color: whitesmoke;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+header{
+    color: red;
+    border-bottom: 3px solid black;
+    font-size: 32px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+.chamada{
+    background: purple;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
